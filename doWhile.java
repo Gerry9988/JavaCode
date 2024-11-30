@@ -5,16 +5,14 @@ public class doWhile {
 	public static void main(String[] args) {
 		int i = 1;
 
-        do {
+		do {
 
-            System.out.println("Iteration " + i);
+			System.out.println("Iteration " + i);
 
-            i++;
+			i++;
 
-        } while (i <= 5);
-
-    }
+		} while (i <= 5);
 
 	}
 
-
+}
